@@ -9,11 +9,11 @@ A job platform enabling employers to post jobs and employees to find opportuniti
 ## 📜Features 
 
 1. Authentication and Authorization:
-- Implemented secure user authentication with JWT tokens and Bcrypt.js for robust data protection.
+    - Implemented secure user authentication with JWT tokens and Bcrypt.js for robust data protection.
 
 2. Employer Functionality:
-- Employers can post jobs, view previously posted ones, and track the number of applicants.
-- They can update applicant status and communicate with them in real-time.
+    - Employers can post jobs, view previously posted ones, and track the number of applicants.
+    - They can update applicant status and communicate with them in real-time.
 
 3. Employee Features:
     - Employees can view, filter, sort, and paginate through jobs based on their domain.
