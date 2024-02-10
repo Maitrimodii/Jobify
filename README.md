@@ -8,7 +8,7 @@
 A job platform enabling employers to post jobs and employees to find opportunities easily, facilitating communication between both parties.
 ## 📜Features 
 1. Authentication and Authorization:
-       - Implemented secure user authentication with JWT tokens and Bcrypt.js for robust data protection.
+                  - Implemented secure user authentication with JWT tokens and Bcrypt.js for robust data protection.
 
 2. Employer Functionality:
        - Employers can post jobs, view previously posted ones, and track the number of applicants.
@@ -20,9 +20,6 @@ A job platform enabling employers to post jobs and employees to find opportuniti
        - Apply for jobs, track application status, and communicate with employers.
    
   
-
-  
-
 
 ## 🛠️Tech Stack
 
@@ -39,4 +36,24 @@ A job platform enabling employers to post jobs and employees to find opportuniti
 
 **Database:**
 * MongoDB 
+
+
+
+## ⚙️ Installation
+
+Follwoing are the steps to septup project
+
+1. Clone the repo
+   ```sh
+   https://github.com/Maitrimodii/Jobify.git
+   ```
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
+3. Enter your API by creating .env file
+   ```js
+   const API_KEY = 'ENTER YOUR API';
+   ```
+
 
